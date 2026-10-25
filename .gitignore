@@ -1,0 +1,11 @@
+.DS_Store
+._*
+__MACOSX/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
